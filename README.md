@@ -37,9 +37,10 @@
   1. -
   2. Tag <p>
       Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.
-
       Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup</p> . 
       
       Tag <br/>
       Tag <br/>  tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri.
-  3.
+  3.Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut sedangkan Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar
+  4.di isi keduanya, karena untuk mendapatkan ukuran yang sesuai keinginanan. 
+  5.
